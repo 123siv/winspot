@@ -1,0 +1,2 @@
+# winspot
+my website
